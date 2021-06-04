@@ -19,7 +19,7 @@
 		<jackson-version>2.4.1</jackson-version>
 		<tomcat-version>2.2</tomcat-version>
 		<pagehelper-version>4.1.6</pagehelper-version>
-		<httpclient-version>4.4.1</httpclient-version>
+		<httpclient-version>4.5.13</httpclient-version>
 		<jedis-version>2.8.1</jedis-version>
 	</properties>
 	<dependencies>
